@@ -1,8 +1,16 @@
 THE DEFINITION OF DONE:
 
+USER STORIES:
+Sucessfully merged to master
+Tasks completed
+Completing functional tasks
+Passing all unit tests
+Documentation needed
+
 
 TASK:
-Code must run, testing done via postgresSQL and postman
+Compliance with style guide
+Code must run, testing done via postgresSQL and postman with JSON objects
 Code must be pushed to either the front or backend repository
 William must approve of merges to master branch
 At least one person must review code 
