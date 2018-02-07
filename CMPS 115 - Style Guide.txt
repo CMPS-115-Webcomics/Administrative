@@ -4,19 +4,18 @@
 Frontend (Angular, Typescript)
 
 
-See https://angular.io/guide/styleguide
-Also be sure to instal the TS Lint plugin for your IDE https://marketplace.visualstudio.com/items?itemName=eg2.tslint
+We will be following Angular's style guide. Please see https://angular.io/guide/styleguide
+Also be sure to install the TS Lint plugin for your IDE https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 
 
 
 
 Backend (Javascript)
-Follow the same general principles as the frontend guide (eg single responsibility policy, variable naming conventions).
+We will follow the same general principles as the frontend guide (eg single responsibility policy, variable naming conventions).
 
 
-In addition for javascript
+In addition, for javascript:
 1. Always use const or let not var
 2. Always use === not ==
 3. Always include semicolons
-4. For asynchronous constructs try to use async/await when possible, when that fails use promises, only use callbacks if no other method is available.
-5.
+4. For asynchronous constructs try to use async/await when possible. When that fails, use promises. Pnly use callbacks if no other method is available.
