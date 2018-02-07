@@ -3,16 +3,12 @@
 
 Frontend (Angular, Typescript)
 
-
 We will be following Angular's style guide. Please see https://angular.io/guide/styleguide
 Also be sure to install the TS Lint plugin for your IDE https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 
 
-
-
 Backend (Javascript)
 We will follow the same general principles as the frontend guide (eg single responsibility policy, variable naming conventions).
-
 
 In addition, for javascript:
 1. Always use const or let not var
